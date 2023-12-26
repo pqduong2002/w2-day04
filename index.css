@@ -135,6 +135,7 @@
 .items-inf h3{
     font-size: 4rem;
     font-weight: 600;
+    color: var(--blue-text);
 }
 .items-inf h5{
     font-size: 2rem;
